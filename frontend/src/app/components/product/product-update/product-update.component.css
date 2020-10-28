@@ -1,0 +1,20 @@
+.title {
+    margin-bottom: 2%;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    margin-top: 3%;
+}
+
+.update {
+    background-color: #53A9DF;
+    color: #FFF;
+    margin: 2% 2% 0% 0%;
+}
+
+.cancel {
+    background-color: #E35E6B;
+    color: #FFF;
+}
